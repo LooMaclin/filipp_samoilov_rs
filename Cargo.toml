@@ -1,0 +1,8 @@
+[package]
+name = "filipp_samoilov_rs"
+version = "0.1.0"
+authors = ["loomaclin <loo.maclin@protonmail.com>"]
+
+[dependencies]
+rocket = "=0.3.6"
+rocket_codegen = "=0.3.6"
